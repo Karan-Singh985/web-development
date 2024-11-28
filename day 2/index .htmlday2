@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="">
+        <label for="">user name</label>
+        <input type="text"> <br>
+        <!-- radio buttons-->
+        <label for="">Gender</label>
+        <input name="Gender" type="radio">Male
+        <input name="Gender" type="radio">Female
+        <input name="Gender" type="radio">choose not to disclose
+
+
+    </form>
+    <table border="5" style="background-color: blueviolet;" c>
+        <tr>
+
+            <th rowspan="2">sub code</th>
+            <th rowspan="2">subject</th>
+            <th colspan="4">marks obtained</th>
+            <th rowspan="2">positional grades</th>
+        </tr>
+
+        <tr>
+
+            <th>Theory</th>
+            <th>IA</th>
+            <th>total</th>
+            <th>total(in words)</th>
+
+        </tr>
+
+        <tr>
+            <td>002</td>
+            <td>hindi courses-a</td>
+            <td>062</td>
+            <td>020</td>
+            <td>082</td>
+            <td>EIGHTY TWO</td>
+            <TD>B1</TD>
+        </tr>
+
+        <tr>
+            <td>184</td>
+            <td>ENGLISH</td>
+            <td>051</td>
+            <td>020</td>
+            <td>071</td>
+            <td>SEVENTY ONE</td>
+            <TD>C1</TD>
+        </tr>
+
+        <tr>
+            <td>041</td>
+            <td>MATH</td>
+            <td>078</td>
+            <td>020</td>
+            <td>98</td>
+            <td>NINETY EIGHT</td>
+            <TD>A1</TD>
+        </tr>
+
+        <tr>
+            <td>085</td>
+            <td>SCIENCE</td>
+            <td>068</td>
+            <td>020</td>
+            <td>88</td>
+            <td>EIGHTY EIGHT</td>
+            <TD>A1</TD>
+        </tr>
+        <tr>
+            <td>087</td>
+            <td>SST</td>
+            <td>069</td>
+            <td>020</td>
+            <td>089</td>
+            <td>EIGHTY NINE</td>
+            <TD>A2</TD>
+        </tr>
+    </table>
+
+    <div>hello</div>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/edEQw5XBrcE?si=bEqH6V6ZEQ4QuRng"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.0413211771215!2d76.74790262601317!3d28.50840448970576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d6c160f1069bf%3A0xff6b8142ecc52ea9!2sDadri%20Toye%2C%20Haryana%20124103!5e0!3m2!1sen!2sin!4v1732612752285!5m2!1sen!2sin"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667"
+        alt="" width="100px" height="100px" style="border-radius: 70%;">
+
+
+        <img src="https://static.vecteezy.com/system/resources/previews/024/669/489/non_2x/mountain-countryside-landscape-at-sunset-dramatic-sky-over-a-distant-valley-green-fields-and-trees-on-hill-beautiful-natural-landscapes-of-the-carpathians-generative-ai-variation-5-photo.jpeg" alt="">
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
